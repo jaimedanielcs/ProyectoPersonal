@@ -1,0 +1,3 @@
+nuevo tema
+primer commit al repositorio personal
+en el cual pruebo los comandos add,commit,pull,push
